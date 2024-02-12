@@ -43,7 +43,7 @@ Ethereum.
 5. **Ejecutar la Aplicación Backend:**
 
    ```bash
-   npm start
+   node index.js
    ```
 
    - La aplicación se ejecutará en
