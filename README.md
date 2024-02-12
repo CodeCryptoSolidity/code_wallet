@@ -1,4 +1,4 @@
-# ENLACE IMPORTANTE PARA EL PROYECTO
+# CODIGO BASE PARA EL PROYECTO
 
 [@CodeCryptoSolidity](https://github.com/CodeCryptoSolidity)
 
